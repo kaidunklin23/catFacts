@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kaidunklin23/catFacts/static/css/main.92d60fbc.chunk.css",
+    "main.js": "/kaidunklin23/catFacts/static/js/main.db45ad85.chunk.js",
+    "main.js.map": "/kaidunklin23/catFacts/static/js/main.db45ad85.chunk.js.map",
+    "runtime-main.js": "/kaidunklin23/catFacts/static/js/runtime-main.d7a1d277.js",
+    "runtime-main.js.map": "/kaidunklin23/catFacts/static/js/runtime-main.d7a1d277.js.map",
+    "static/js/2.f8e53260.chunk.js": "/kaidunklin23/catFacts/static/js/2.f8e53260.chunk.js",
+    "static/js/2.f8e53260.chunk.js.map": "/kaidunklin23/catFacts/static/js/2.f8e53260.chunk.js.map",
+    "index.html": "/kaidunklin23/catFacts/index.html",
+    "precache-manifest.b6fb629726047e58c2a357281f73be5b.js": "/kaidunklin23/catFacts/precache-manifest.b6fb629726047e58c2a357281f73be5b.js",
+    "service-worker.js": "/kaidunklin23/catFacts/service-worker.js",
+    "static/css/main.92d60fbc.chunk.css.map": "/kaidunklin23/catFacts/static/css/main.92d60fbc.chunk.css.map",
+    "static/js/2.f8e53260.chunk.js.LICENSE.txt": "/kaidunklin23/catFacts/static/js/2.f8e53260.chunk.js.LICENSE.txt",
+    "static/media/giphy.gif": "/kaidunklin23/catFacts/static/media/giphy.31c2b384.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7a1d277.js",
+    "static/js/2.f8e53260.chunk.js",
+    "static/css/main.92d60fbc.chunk.css",
+    "static/js/main.db45ad85.chunk.js"
+  ]
+}
